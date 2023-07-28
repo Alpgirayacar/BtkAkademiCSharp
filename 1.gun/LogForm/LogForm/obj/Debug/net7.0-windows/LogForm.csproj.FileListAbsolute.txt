@@ -1,0 +1,17 @@
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\bin\Debug\net7.0-windows\LogForm.exe
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\bin\Debug\net7.0-windows\LogForm.deps.json
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\bin\Debug\net7.0-windows\LogForm.runtimeconfig.json
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\bin\Debug\net7.0-windows\LogForm.dll
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\bin\Debug\net7.0-windows\LogForm.pdb
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.csproj.AssemblyReference.cache
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.Form1.resources
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.csproj.GenerateResource.cache
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.AssemblyInfoInputs.cache
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.AssemblyInfo.cs
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.csproj.CoreCompileInputs.cache
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.dll
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\refint\LogForm.dll
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.pdb
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\LogForm.genruntimeconfig.cache
+C:\Users\alpgiray\Documents\btkakademi\1.gun\LogForm\LogForm\obj\Debug\net7.0-windows\ref\LogForm.dll

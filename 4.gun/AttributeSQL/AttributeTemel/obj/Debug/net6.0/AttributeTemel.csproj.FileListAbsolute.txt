@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\bin\Debug\net6.0\AttributeTemel.exe
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\bin\Debug\net6.0\AttributeTemel.deps.json
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\bin\Debug\net6.0\AttributeTemel.runtimeconfig.json
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\bin\Debug\net6.0\AttributeTemel.dll
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\bin\Debug\net6.0\ref\AttributeTemel.dll
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\bin\Debug\net6.0\AttributeTemel.pdb
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.dll
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\ref\AttributeTemel.dll
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.pdb
+C:\Users\Administrator\Desktop\TREGİTİM\CSHARP\4.gün\AttributeSQL\AttributeTemel\obj\Debug\net6.0\AttributeTemel.genruntimeconfig.cache

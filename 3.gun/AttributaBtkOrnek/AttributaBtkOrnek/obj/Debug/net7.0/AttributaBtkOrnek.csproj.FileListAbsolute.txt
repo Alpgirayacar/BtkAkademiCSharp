@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\bin\Debug\net7.0\AttributaBtkOrnek.exe
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\bin\Debug\net7.0\AttributaBtkOrnek.deps.json
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\bin\Debug\net7.0\AttributaBtkOrnek.runtimeconfig.json
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\bin\Debug\net7.0\AttributaBtkOrnek.dll
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\bin\Debug\net7.0\AttributaBtkOrnek.pdb
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.AssemblyInfo.cs
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.dll
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\refint\AttributaBtkOrnek.dll
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.pdb
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\AttributaBtkOrnek.genruntimeconfig.cache
+C:\Users\Administrator\Documents\btkakademi\3.gun\AttributaBtkOrnek\AttributaBtkOrnek\obj\Debug\net7.0\ref\AttributaBtkOrnek.dll

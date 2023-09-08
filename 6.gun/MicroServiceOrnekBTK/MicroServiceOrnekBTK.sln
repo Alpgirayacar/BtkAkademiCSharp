@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{01BA2C74-1BD9-4C08-81CC-42DA681C4C9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{6D1D2E74-C071-43F6-BB46-7A171B1A6017}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{72637E3C-12FA-4DFE-86BE-D5B614E8C69A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{F932157B-86F7-41C5-ABF6-20A14EDA2E46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Payment", "Payment", "{0025BC9E-ED26-4B71-8925-816BCCF54446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtkAkademi.ServicesProductAPI", "BtkAkademi.ServicesProductAPI\BtkAkademi.ServicesProductAPI.csproj", "{24D60B60-3BE0-4B68-B404-FA06D2D870A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BtkAkademi.Web", "BtkAkademi.Web\BtkAkademi.Web.csproj", "{39D8E10D-085F-4DE1-BC7A-B83B5DEAB3DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D60B60-3BE0-4B68-B404-FA06D2D870A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D60B60-3BE0-4B68-B404-FA06D2D870A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D60B60-3BE0-4B68-B404-FA06D2D870A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D60B60-3BE0-4B68-B404-FA06D2D870A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D8E10D-085F-4DE1-BC7A-B83B5DEAB3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D8E10D-085F-4DE1-BC7A-B83B5DEAB3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D8E10D-085F-4DE1-BC7A-B83B5DEAB3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D8E10D-085F-4DE1-BC7A-B83B5DEAB3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24D60B60-3BE0-4B68-B404-FA06D2D870A9} = {01BA2C74-1BD9-4C08-81CC-42DA681C4C9B}
+		{39D8E10D-085F-4DE1-BC7A-B83B5DEAB3DA} = {6D1D2E74-C071-43F6-BB46-7A171B1A6017}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {182B5C53-8D7C-4D27-AA17-0283A29C5E20}
+	EndGlobalSection
+EndGlobal

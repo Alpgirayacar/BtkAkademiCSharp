@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\bin\Debug\net7.0\DapperOrnekBTK.Application.deps.json
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\bin\Debug\net7.0\DapperOrnekBTK.Application.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\bin\Debug\net7.0\DapperOrnekBTK.Application.pdb
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\bin\Debug\net7.0\DapperOrnekBTK.Domain.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\bin\Debug\net7.0\DapperOrnekBTK.Domain.pdb
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.AssemblyInfo.cs
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.csproj.CopyComplete
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\refint\DapperOrnekBTK.Application.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\DapperOrnekBTK.Application.pdb
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\TodoOrnekBTK.Application\obj\Debug\net7.0\ref\DapperOrnekBTK.Application.dll

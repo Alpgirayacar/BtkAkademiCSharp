@@ -1,0 +1,12 @@
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\bin\Debug\net7.0\BtkClassLibrary.deps.json
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\bin\Debug\net7.0\BtkClassLibrary.dll
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\bin\Debug\net7.0\BtkClassLibrary.pdb
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\BtkClassLibrary.csproj.AssemblyReference.cache
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\BtkClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\BtkClassLibrary.AssemblyInfoInputs.cache
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\BtkClassLibrary.AssemblyInfo.cs
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\BtkClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\BtkClassLibrary.dll
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\refint\BtkClassLibrary.dll
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\BtkClassLibrary.pdb
+C:\Users\alpgiray\Documents\btkakademi\6.gun\BtkClassLibrary\BtkClassLibrary\obj\Debug\net7.0\ref\BtkClassLibrary.dll

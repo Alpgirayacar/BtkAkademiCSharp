@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Web\\DapperOrnekBTK.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\DapperOrnekBTK.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\DapperOrnekBTK.Domain.csproj",
+        "projectName": "DapperOrnekBTK.Domain",
+        "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\DapperOrnekBTK.Domain.csproj",
+        "packagesPath": "C:\\Users\\alpgiray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alpgiray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Infrastructure\\DapperOrnekBTK.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Infrastructure\\DapperOrnekBTK.Infrastructure.csproj",
+        "projectName": "DapperOrnekBTK.Infrastructure",
+        "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Infrastructure\\DapperOrnekBTK.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\alpgiray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alpgiray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\DapperOrnekBTK.Domain.csproj": {
+                "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\DapperOrnekBTK.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Web\\DapperOrnekBTK.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Web\\DapperOrnekBTK.Web.csproj",
+        "projectName": "DapperOrnekBTK.Web",
+        "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Web\\DapperOrnekBTK.Web.csproj",
+        "packagesPath": "C:\\Users\\alpgiray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alpgiray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Infrastructure\\DapperOrnekBTK.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Infrastructure\\DapperOrnekBTK.Infrastructure.csproj"
+              },
+              "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\TodoOrnekBTK.Application\\DapperOrnekBTK.Application.csproj": {
+                "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\TodoOrnekBTK.Application\\DapperOrnekBTK.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\TodoOrnekBTK.Application\\DapperOrnekBTK.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\TodoOrnekBTK.Application\\DapperOrnekBTK.Application.csproj",
+        "projectName": "DapperOrnekBTK.Application",
+        "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\TodoOrnekBTK.Application\\DapperOrnekBTK.Application.csproj",
+        "packagesPath": "C:\\Users\\alpgiray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\TodoOrnekBTK.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alpgiray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\DapperOrnekBTK.Domain.csproj": {
+                "projectPath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTK\\DapperOrnekBTK.Domain\\DapperOrnekBTK.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

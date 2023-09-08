@@ -1,0 +1,40 @@
+﻿@using DapperOrnekBTK.Domain
+@model DapperOrnekBTK.Web.Models.TodoViewModel
+
+
+<div id="todo-container">
+    <button class="btn btn-info float-right m-auto" id="create-todo" style="display: block">Yeni Todo Ekle</button>
+    <br />
+    <ul class="list-group mt-4">
+        @if (Model.TodoItems.Any())
+        {
+            @foreach (var todoItem in Model.TodoItems)
+            {
+                <li class="list-group-item">
+                    <div class="row justify-content-between m-auto">
+                        <div style="text-decoration: @(todoItem.Status == TodoStatus.Closed ? "line-through" : "none")">
+                            @todoItem.Title
+                        </div>
+                        <div>
+                            <button class="btn btn-warning todo-edit" data-todo-id="@todoItem.Id"
+                                    data-todo-title="@todoItem.Title" data-todo-description="@todoItem.Description"
+                                    data-todo-status="@((int)todoItem.Status)">
+                                Düzenle
+                            </button>
+                            <button class="btn btn-danger todo-delete" data-todo-id="@todoItem.Id"
+                                    data-todo-title="@todoItem.Title" data-todo-description="@todoItem.Description"
+                                    data-todo-status="@((int)todoItem.Status)">
+                                Sil
+                            </button>
+                        </div>
+                    </div>
+                </li>
+            }
+        }
+        else
+        {
+            <li class="list-group-item">Herhangi bir todo yok!</li>
+        }
+    </ul>
+
+</div>

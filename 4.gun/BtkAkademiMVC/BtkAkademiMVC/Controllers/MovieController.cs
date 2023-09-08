@@ -67,5 +67,8 @@ namespace BtkAkademiMVC.Controllers
             return RedirectToAction("Index");
 
         }
+
+
+       
     }
 }

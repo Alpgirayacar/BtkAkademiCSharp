@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBAZH780ltCDxUP58JwAKFp9323gomCrtWzHUWP+yfUf3xjhNGPwCzwzKDPDZZQdQf4v6yGBsI7kvdEwzYveuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\btkakademi\\5.gun\\RabbitMQProducerBTK\\RabbitMQProducerBTK\\RabbitMQProducerBTK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\rabbitmq.client\\6.3.0\\rabbitmq.client.6.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

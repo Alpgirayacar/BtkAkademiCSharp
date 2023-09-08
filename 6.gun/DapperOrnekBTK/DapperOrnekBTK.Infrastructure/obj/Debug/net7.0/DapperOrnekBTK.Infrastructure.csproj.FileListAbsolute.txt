@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\bin\Debug\net7.0\DapperOrnekBTK.Infrastructure.deps.json
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\bin\Debug\net7.0\DapperOrnekBTK.Infrastructure.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\bin\Debug\net7.0\DapperOrnekBTK.Infrastructure.pdb
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\bin\Debug\net7.0\DapperOrnekBTK.Domain.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\bin\Debug\net7.0\DapperOrnekBTK.Domain.pdb
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.csproj.CopyComplete
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\refint\DapperOrnekBTK.Infrastructure.dll
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\DapperOrnekBTK.Infrastructure.pdb
+C:\Users\Administrator\Documents\btkakademi\6.gun\DapperOrnekBTK\DapperOrnekBTK.Infrastructure\obj\Debug\net7.0\ref\DapperOrnekBTK.Infrastructure.dll

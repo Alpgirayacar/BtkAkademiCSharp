@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NnfsPEzbiJKF0+2vpo4J6TkcaKNwEBhTan+id+TTKgiL6LOxlUjKBPe6JSu8bGh6gs9mbrVc0uSQYpM/PmTXmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alpgiray\\Documents\\btkakademi\\6.gun\\DapperOrnekBTKDomain\\DapperOrnekBTKDomain\\DapperOrnekBTK.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alpgiray\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\alpgiray\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\alpgiray\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alpgiray\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alpgiray\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\alpgiray\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\alpgiray\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
